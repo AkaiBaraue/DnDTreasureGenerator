@@ -1,0 +1,222 @@
+{
+   "gp-10": [
+      {
+         "Result": 1,
+         "Name": "Azurite"
+      },
+      {
+         "Result": 2,
+         "Name": "Banded Agate"
+      },
+      {
+         "Result": 3,
+         "Name": "Blue Quartz"
+      },
+      {
+         "Result": 4,
+         "Name": "Eye Agate"
+      },
+      {
+         "Result": 5,
+         "Name": "Hematite"
+      },
+      {
+         "Result": 6,
+         "Name": "Lapis Lazuli"
+      },
+      {
+         "Result": 7,
+         "Name": "Malachite"
+      },
+      {
+         "Result": 8,
+         "Name": "Moss Agate"
+      },
+      {
+         "Result": 9,
+         "Name": "Obsidian"
+      },
+      {
+         "Result": 10,
+         "Name": "Phodochrosite"
+      },
+      {
+         "Result": 11,
+         "Name": "Tiger Eye"
+      },
+      {
+         "Result": 12,
+         "Name": "Turquoise"
+      }
+   ],
+   "gp-50": [
+      {
+         "Result": 1,
+         "Name": "Bloodstone"
+      },
+      {
+         "Result": 2,
+         "Name": "Carnelian"
+      },
+      {
+         "Result": 3,
+         "Name": "Chalcedony"
+      },
+      {
+         "Result": 4,
+         "Name": "Chrysoprase"
+      },
+      {
+         "Result": 5,
+         "Name": "Citrine"
+      },
+      {
+         "Result": 6,
+         "Name": "Jasper"
+      },
+      {
+         "Result": 7,
+         "Name": "Moonstone"
+      },
+      {
+         "Result": 8,
+         "Name": "Onyx"
+      },
+      {
+         "Result": 9,
+         "Name": "Quartz"
+      },
+      {
+         "Result": 10,
+         "Name": "Sardonyx"
+      },
+      {
+         "Result": 11,
+         "Name": "Star Rose Quartz"
+      },
+      {
+         "Result": 12,
+         "Name": "Zircon"
+      }
+   ],
+   "gp-100": [
+      {
+         "Result": 1,
+         "Name": "Amber"
+      },
+      {
+         "Result": 2,
+         "Name": "Amethyst"
+      },
+      {
+         "Result": 3,
+         "Name": "Chrysoberyl"
+      },
+      {
+         "Result": 4,
+         "Name": "Coral"
+      },
+      {
+         "Result": 5,
+         "Name": "Garnet"
+      },
+      {
+         "Result": 6,
+         "Name": "Jade"
+      },
+      {
+         "Result": 7,
+         "Name": "Jet"
+      },
+      {
+         "Result": 8,
+         "Name": "Pearl"
+      },
+      {
+         "Result": 9,
+         "Name": "Spinel"
+      },
+      {
+         "Result": 10,
+         "Name": "Tourmaline"
+      }
+   ],
+   "gp-500": [
+      {
+         "Result": 1,
+         "Name": "Alexandrite"
+      },
+      {
+         "Result": 2,
+         "Name": "Aquamarine"
+      },
+      {
+         "Result": 3,
+         "Name": "Black Pearl"
+      },
+      {
+         "Result": 4,
+         "Name": "Blue Spinel"
+      },
+      {
+         "Result": 5,
+         "Name": "Peridot"
+      },
+      {
+         "Result": 6,
+         "Name": "Topaz"
+      }
+   ],
+   "gp-1000": [
+      {
+         "Result": 1,
+         "Name": "Black Opal"
+      },
+      {
+         "Result": 2,
+         "Name": "Blue Sapphire"
+      },
+      {
+         "Result": 3,
+         "Name": "Emerald"
+      },
+      {
+         "Result": 4,
+         "Name": "Fire Opal"
+      },
+      {
+         "Result": 5,
+         "Name": "Opal"
+      },
+      {
+         "Result": 6,
+         "Name": "Star Ruby"
+      },
+      {
+         "Result": 7,
+         "Name": "Star Sapphire"
+      },
+      {
+         "Result": 8,
+         "Name": "Yellow Sapphire"
+      }
+   ],
+   "gp-5000": [
+      {
+         "Result": 1,
+         "Name": "Black Sapphire"
+      },
+      {
+         "Result": 2,
+         "Name": "Diamond"
+      },
+      {
+         "Result": 3,
+         "Name": "Jacinth"
+      },
+      {
+         "Result": 4,
+         "Name": "Ruby"
+      }
+   ]
+}

@@ -1,0 +1,204 @@
+{
+   "gp-25": [
+      {
+         "Result": 1,
+         "Name": "Silver Ewer"
+      },
+      {
+         "Result": 2,
+         "Name": "Carved Bone Statuette"
+      },
+      {
+         "Result": 3,
+         "Name": "Small Gold Bracelet"
+      },
+      {
+         "Result": 4,
+         "Name": "Cloth-of-gold Vestments"
+      },
+      {
+         "Result": 5,
+         "Name": "Black Velvet Mask Stitched with Silver Thread"
+      },
+      {
+         "Result": 6,
+         "Name": "Copper Chalice wih Silver Filigree"
+      },
+      {
+         "Result": 7,
+         "Name": "Pair of Engraved Bone Dice"
+      },
+      {
+         "Result": 8,
+         "Name": "Small Mirror Set in a Painted Wooden Frame"
+      },
+      {
+         "Result": 9,
+         "Name": "Embroidered Silk Handkerchief"
+      },
+      {
+         "Result": 10,
+         "Name": "Gold Locket with a Painted Portrait Inside"
+      }
+   ],
+   "gp-250": [
+      {
+         "Result": 1,
+         "Name": "Gold Ring Set with Bloodstones"
+      },
+      {
+         "Result": 2,
+         "Name": "Carved Ivory Statuette"
+      },
+      {
+         "Result": 3,
+         "Name": "Large Fold Bracelet"
+      },
+      {
+         "Result": 4,
+         "Name": "Silver Necklace with a Gemstone Pendant"
+      },
+      {
+         "Result": 5,
+         "Name": "Bronze Crown"
+      },
+      {
+         "Result": 6,
+         "Name": "Silk Robe wit Gold Embroidery"
+      },
+      {
+         "Result": 7,
+         "Name": "Large Well-Made Tapestry"
+      },
+      {
+         "Result": 8,
+         "Name": "Brass Mug with Jade Inlay"
+      },
+      {
+         "Result": 9,
+         "Name": "Box of Turquoise Animal Figurines"
+      },
+      {
+         "Result": 10,
+         "Name": "Gold Bird Cage with Electrum Filigree"
+      }
+   ],
+   "gp-750": [
+      {
+         "Result": 1,
+         "Name": "Silver Chalice Set with Moonstones"
+      },
+      {
+         "Result": 2,
+         "Name": "Silver-Plated Steel Longsword with Jet set in Hilt"
+      },
+      {
+         "Result": 3,
+         "Name": "Carved Harp of Exotic Wood with Ivory Inlay and Zircon Gems"
+      },
+      {
+         "Result": 4,
+         "Name": "Small Gold Idol"
+      },
+      {
+         "Result": 5,
+         "Name": "Gold Dragon Comb Set with Red Garnets as Eyes"
+      },
+      {
+         "Result": 6,
+         "Name": "Bottle stopper cork embossed with gold leaf and set with amethysts"
+      },
+      {
+         "Result": 7,
+         "Name": "Ceremonial electrum dagger with a black pearl in the pommel"
+      },
+      {
+         "Result": 8,
+         "Name": "Silver and gold brooch"
+      },
+      {
+         "Result": 9,
+         "Name": "Obsidian statuette with gold fittings and inlay"
+      },
+      {
+         "Result": 10,
+         "Name": "Painted fold war mask"
+      }
+   ],
+   "gp-2500": [
+      {
+         "Result": 1,
+         "Name": "Fine gold chain set with a fire opal"
+      },
+      {
+         "Result": 2,
+         "Name": "Old masterpiece painting"
+      },
+      {
+         "Result": 3,
+         "Name": "Embroidered silk and velvet mantle set with numerous moonstones"
+      },
+      {
+         "Result": 4,
+         "Name": "Platinum bracelet set with a sapphire"
+      },
+      {
+         "Result": 5,
+         "Name": "Embroidered glove set with jewel chips"
+      },
+      {
+         "Result": 6,
+         "Name": "Jeweled anklet"
+      },
+      {
+         "Result": 7,
+         "Name": "Gold music box"
+      },
+      {
+         "Result": 8,
+         "Name": "Gold circlet set with aquamarines"
+      },
+      {
+         "Result": 9,
+         "Name": "Eye patch with a mock eye set in blue sapphire and moonstone"
+      },
+      {
+         "Result": 10,
+         "Name": "A necklace string of small pink pearls"
+      }
+   ],
+   "gp-7500": [
+      {
+         "Result": 1,
+         "Name": "Jeweled gold crown"
+      },
+      {
+         "Result": 2,
+         "Name": "Jeweled platinum ring"
+      },
+      {
+         "Result": 3,
+         "Name": "Small gold statuette set with rubies"
+      },
+      {
+         "Result": 4,
+         "Name": "Gold cup set with emeralds"
+      },
+      {
+         "Result": 5,
+         "Name": "Gold jewelry box with platinum filigree"
+      },
+      {
+         "Result": 6,
+         "Name": "Painted gold child's sarcophagus"
+      },
+      {
+         "Result": 7,
+         "Name": "Jade game board with solid gold playing pieces"
+      },
+      {
+         "Result": 8,
+         "Name": "Bejeweled ivory drinking horn with gold filigree"
+      }
+   ]
+}
