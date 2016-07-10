@@ -24,6 +24,22 @@ namespace DnDTreasureGenerator.Program
             this.LoadTables();
         }
 
+        public string Run(TableType tableType)
+        {
+            var sb = new StringBuilder();
+
+            foreach (var t in TableCollection.TreasureTables)
+            {
+                if (t.TableType.Equals(tableType))
+                {
+                    sb.AppendLine(String.Format("----- {0} CR {1} -----", t.TableType.Type, tableType.Identifier.Replace('_', '-')));
+                    sb.Append(t.Roll());
+                }
+            }
+
+            return sb.ToString();
+        }
+
         public string Run()
         {
             var sb = new StringBuilder();

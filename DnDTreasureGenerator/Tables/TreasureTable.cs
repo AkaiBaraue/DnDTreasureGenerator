@@ -57,7 +57,10 @@ namespace DnDTreasureGenerator.Tables
         {
             var roll = this.GetDiceRoll();
             var sb = new StringBuilder();
-            sb.AppendLine("" + roll);
+
+            sb.AppendLine(String.Format("Rolled a {0} on the table.", roll));
+            sb.AppendLine();
+
             // Generate coins
             foreach (var ct in this.Coins.Where(x => roll >= x.RangeStart && roll <= x.RangeEnd))
             {
