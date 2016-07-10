@@ -9,10 +9,17 @@ using Newtonsoft.Json;
 
 using DnDTreasureGenerator.JsonModels;
 
-namespace DnDTreasureGenerator.Program
+namespace DnDTreasureGenerator.JsonModels
 {
+    /// <summary>
+    /// A class that deserializes the various Json data files.
+    /// </summary>
     class JsonParser
     {
+        /// <summary>
+        /// Deserializes the Gems file.
+        /// </summary>
+        /// <returns> A model containing the data from the file. </returns>
         public Gems_Model DeserializeGems()
         {
             var items = new Gems_Model();
@@ -26,6 +33,10 @@ namespace DnDTreasureGenerator.Program
             return items;
         }
 
+        /// <summary>
+        /// Deserializes the ArtObjects file.
+        /// </summary>
+        /// <returns> A model containing the data from the file. </returns>
         public ArtObjects_Model DeserializeArtObjects()
         {
             var items = new ArtObjects_Model();
@@ -39,6 +50,10 @@ namespace DnDTreasureGenerator.Program
             return items;
         }
 
+        /// <summary>
+        /// Deserializes the MagicItems file.
+        /// </summary>
+        /// <returns> A model containing the data from the file. </returns>
         public MagicItems_Model DeserializeMagicItems()
         {
             var items = new MagicItems_Model();
@@ -52,6 +67,10 @@ namespace DnDTreasureGenerator.Program
             return items;
         }
 
+        /// <summary>
+        /// Deserializes the IndividualTreasure file.
+        /// </summary>
+        /// <returns> A model containing the data from the file. </returns>
         public IndividualTreasure_Model DeserializeIndividualTreasure()
         {
             var items = new IndividualTreasure_Model();
@@ -65,6 +84,10 @@ namespace DnDTreasureGenerator.Program
             return items;
         }
 
+        /// <summary>
+        /// Deserializes the TreasureHoard file.
+        /// </summary>
+        /// <returns> A model containing the data from the file. </returns>
         public TreasureHoard_Model DeserializeTreasureHoard()
         {
             var items = new TreasureHoard_Model();

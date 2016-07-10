@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DnDTreasureGenerator.Tables
 {
+    /// <summary>
+    /// A table that represents one of the Magic Item tables.
+    /// </summary>
     class ItemsTable : ATable
     {
         private List<ItemTuple> Items { get; set; }
@@ -17,11 +20,21 @@ namespace DnDTreasureGenerator.Tables
             this.Items = new List<ItemTuple>();
         }
 
+        /// <summary>
+        /// Adds an item to the table.
+        /// </summary>
+        /// <param name="rangeStart"> The lower bound of the die range (inclusive) </param>
+        /// <param name="rangeEnd"> The upper bound of the die range (inclusive) </param>
+        /// <param name="itemName"> The name of the item to add. </param>
         public void AddItem(int rangeStart, int rangeEnd, string itemName)
         {
             this.Items.Add(new ItemTuple(rangeStart, rangeEnd, itemName));
         }
 
+        /// <summary>
+        /// Rolls the die for the table and returns the magic item corresponding to the roll.
+        /// </summary>
+        /// <returns> The magic item corresponding to the roll. </returns>
         public override string Roll()
         {
             var roll = this.GetDiceRoll();
@@ -35,6 +48,10 @@ namespace DnDTreasureGenerator.Tables
             return sb.ToString();
         }
 
+
+        /// <summary>
+        /// A class for making the list of item rolls easier to manage.
+        /// </summary>
         protected class ItemTuple
         {
             public int RangeStart { get; private set; }

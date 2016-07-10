@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace DnDTreasureGenerator.Program
 {
+    /// <summary>
+    /// A class that represents a group of dice.
+    /// Don't think it's used anywhere, but oh well.
+    /// </summary>
     class DiceGroup
     {
         private List<Die> dies;

@@ -8,13 +8,11 @@ using DnDTreasureGenerator.Program;
 
 namespace DnDTreasureGenerator.Tables
 {
+    /// <summary>
+    /// A class that represents either an Individual Treasure or Treasure Hoard table.
+    /// </summary>
     class TreasureTable : ATable
     {
-        /// <summary>
-        /// The valuables in the table.
-        /// </summary>
-        //public List<Tuple<int, int, List<Coins>>> Coins { get; private set; }
-
         public List<CoinsTuple> Coins { get; private set; }
 
         public List<ValuablesTuple> Valuables { get; private set; }
@@ -36,16 +34,42 @@ namespace DnDTreasureGenerator.Tables
             this.MagicItems = new List<MagicItemTuple>();
         }
 
+        /// <summary>
+        /// Adds a list of coins to the treasure table within a certain die range.
+        /// </summary>
+        /// <param name="rangeStart"> The lower bound of the die range (inclusive) </param>
+        /// <param name="rangeEnd"> The upper bound of the die range (inclusive) </param>
+        /// <param name="coins"> The list of coins to add. </param>
         public void AddCoins(int rangeStart, int rangeEnd, List<Coins> coins)
         {
             this.Coins.Add(new CoinsTuple(rangeStart, rangeEnd, coins));
         }
 
+        /// <summary>
+        /// Adds a table of valuables to roll on within a given die range.
+        /// </summary>
+        /// <param name="rangeStart"> The lower bound of the die range (inclusive) </param>
+        /// <param name="rangeEnd"> The upper bound of the die range (inclusive) </param>
+        /// <param name="dieRolls"> The number of times to roll the die. </param>
+        /// <param name="dieSides"> The number of sides on the die. </param>
+        /// <param name="tableToRollOn"> The valuables table to roll on. </param>
         public void AddValuables(int rangeStart, int rangeEnd, int dieRolls, int dieSides, TableType tableToRollOn)
         {
             this.Valuables.Add(new ValuablesTuple(rangeStart, rangeEnd, dieRolls, dieSides, tableToRollOn));
         }
 
+        /// <summary>
+        /// Adds one (or two) magic item tables to roll on. 
+        /// Yes, two because the treasure hoard with CR 11-16 wants to be a fucking snowflake.
+        /// </summary>
+        /// <param name="rangeStart"> The lower bound of the die range (inclusive) </param>
+        /// <param name="rangeEnd"> The upper bound of the die range (inclusive) </param>
+        /// <param name="firstTableDieRolls"> The number of times to roll the die. </param>
+        /// <param name="firstTableDieSides"> The number of sides on the die. </param>
+        /// <param name="firstTableToRollOn"> The magic item table to roll on. </param>
+        /// <param name="secondTableDieRolls"> The number of times to roll the die. </param>
+        /// <param name="secondTableDieSides"> The number of sides on the die. </param>
+        /// <param name="secondTableToRollOn"> The magic item table to roll on. </param>
         public void AddMagicItems(int rangeStart, int rangeEnd, 
                 int firstTableDieRolls, int firstTableDieSides, TableType firstTableToRollOn,
                 int secondTableDieRolls = 0, int secondTableDieSides = 0, TableType secondTableToRollOn = null)
@@ -53,6 +77,10 @@ namespace DnDTreasureGenerator.Tables
             this.MagicItems.Add(new MagicItemTuple(rangeStart, rangeEnd, firstTableDieRolls, firstTableDieSides, firstTableToRollOn, secondTableDieRolls, secondTableDieSides, secondTableToRollOn));
         }
 
+        /// <summary>
+        /// Rolls a die for the table and then rolls to figure out coins/valuables/magic items.
+        /// </summary>
+        /// <returns> A string that contains the result of all the rolls. </returns>
         override public string Roll()
         {
             var roll = this.GetDiceRoll();
@@ -154,7 +182,7 @@ namespace DnDTreasureGenerator.Tables
 
         /// <summary>
         /// A class for making the list of magic item rolls easier to manage.
-        /// Yes, there are tables that can roll on fucking two different magic item tables, which is why there's the First/Second crap here.
+        /// Yes, there are tables that can fucking roll on two different magic item tables (fuck you, hoard 11-16), which is why there's the First/Second crap here.
         /// </summary>
         public class MagicItemTuple
         {

@@ -5,6 +5,9 @@ using System.Text;
 
 namespace DnDTreasureGenerator.Tables
 {
+    /// <summary>
+    /// A class that represents the different types of tables.
+    /// </summary>
     public class TableType
     {
         /// <summary>
@@ -58,6 +61,9 @@ namespace DnDTreasureGenerator.Tables
         public static TableType MagicItemsH = new TableType("Magic Items", "H");
         public static TableType MagicItemsI = new TableType("Magic Items", "I");
 
+        /// <summary>
+        /// Initializes the tables.
+        /// </summary>
         public static void Initialize()
         {
             allTableTypes.Add(IndividualTreasure0_4);
@@ -94,10 +100,16 @@ namespace DnDTreasureGenerator.Tables
             allTableTypes.Add(MagicItemsI);
         }
 
+        /// <summary>
+        /// Finds a table that has the specified type and identifier.
+        /// </summary>
+        /// <param name="type"> The type to search for. </param>
+        /// <param name="identifier"> The identifier to search for. </param>
+        /// <returns> The table if it exists. Null otherwise. </returns>
         public static TableType FindTableType(string type, string identifier)
         {
             foreach (var tt in allTableTypes)
-                if (tt.Type == type && tt.Identifier == identifier)
+                if (tt.Type.Equals(type) && tt.Identifier.Equals(identifier))
                     return tt;
 
             return null;

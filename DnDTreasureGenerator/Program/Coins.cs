@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DnDTreasureGenerator.Program
 {
+    /// <summary>
+    /// A class that represents a bunch of coins in a table.
+    /// </summary>
     class Coins
     {
         /// <summary>
@@ -36,6 +39,10 @@ namespace DnDTreasureGenerator.Program
             this.multiplier = multiplier;
         }
 
+        /// <summary>
+        /// Rolls the coins.
+        /// </summary>
+        /// <returns> The result of the coin roll. </returns>
         public string Roll()
         {
             var die = new Die(this.dieSides);

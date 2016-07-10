@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DnDTreasureGenerator.Tables
 {
+    /// <summary>
+    /// A class that represents either a Gem or an Art Object table. A gem/art object is referred to as a "valuable" here.
+    /// </summary>
     class ValuablesTable : ATable
     {
         /// <summary>
@@ -36,6 +39,10 @@ namespace DnDTreasureGenerator.Tables
             this.Valuables.Add(new Tuple<int, string>(roll, name));
         }
 
+        /// <summary>
+        /// Rolls the die for the table and returns the valuable corresponding to the roll.
+        /// </summary>
+        /// <returns> The valuable corresponding to the roll. </returns>
         override public string Roll()
         {
             var roll = this.GetDiceRoll();

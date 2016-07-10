@@ -46,7 +46,7 @@ namespace DnDTreasureGenerator
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             var tableToGenerateFor = this.Lookup[cbTreasureTables.SelectedIndex].Item2;
-            generatedItems.Text = main.Run(tableToGenerateFor);
+            generatedItems.Text = main.Generate(tableToGenerateFor);
         }
     }
 }

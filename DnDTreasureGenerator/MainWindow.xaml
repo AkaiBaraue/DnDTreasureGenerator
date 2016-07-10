@@ -3,10 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="432,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Height="22"/>
+        <Button Content="Generate Treasure" HorizontalAlignment="Left" Margin="401,10,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click" Height="22"/>
         <TextBox x:Name="generatedItems" HorizontalAlignment="Left" Height="272" Margin="10,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="497" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
          ScrollViewer.VerticalScrollBarVisibility="Auto"
                  ScrollViewer.CanContentScroll="True" IsReadOnly="True"/>
-        <ComboBox x:Name="cbTreasureTables" HorizontalAlignment="Left" Margin="210,10,0,0" VerticalAlignment="Top" Width="204"/>
+        <ComboBox x:Name="cbTreasureTables" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="204"/>
     </Grid>
 </Window>

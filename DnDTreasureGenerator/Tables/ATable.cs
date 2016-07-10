@@ -8,6 +8,9 @@ using DnDTreasureGenerator.Program;
 
 namespace DnDTreasureGenerator.Tables
 {
+    /// <summary>
+    /// An abstract class representing the basic version of a table.
+    /// </summary>
     abstract class ATable
     {
         /// <summary>
