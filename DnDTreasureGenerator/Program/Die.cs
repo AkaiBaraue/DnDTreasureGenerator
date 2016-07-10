@@ -9,7 +9,7 @@ namespace DnDTreasureGenerator.Program
     /// <summary>
     /// A class that represents an N-sided dice.
     /// </summary>
-    class Dice
+    class Die
     {
         private int sides = 4;
 
@@ -18,7 +18,7 @@ namespace DnDTreasureGenerator.Program
         /// </summary>
         public int Sides { get { return this.sides; } private set { this.sides = value; } }
 
-        public Dice(int sides)
+        public Die(int sides)
         {
             if (sides <= 0) this.sides = 1;
             else this.sides = sides;

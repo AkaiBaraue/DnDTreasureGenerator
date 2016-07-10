@@ -6,18 +6,8 @@ using System.Threading.Tasks;
 
 namespace DnDTreasureGenerator.Tables
 {
-    class ValuablesTable
+    class ValuablesTable : ATable
     {
-        /// <summary>
-        /// The type of valuable that is contained in this table (eg. gems, art objects)
-        /// </summary>
-        public string Type { get; private set; }
-
-        /// <summary>
-        /// The value of the items in the table.
-        /// </summary>
-        public int Value { get; private set; }
-
         /// <summary>
         /// The valuables in the table.
         /// </summary>
@@ -27,11 +17,12 @@ namespace DnDTreasureGenerator.Tables
         /// 
         /// </summary>
         /// <param name="type"> A value that describes what type of valuable it is. </param>
-        /// <param name="value"> The value (in gp) of the items in the table. </param>
-        public ValuablesTable(string type, int value)
+        /// <param name="identifier"> The identifier that separates different tables of the same type from each other. </param>
+        /// <param name="dieSides"> The number of sides on the die that is used to roll on the table. </param>
+        public ValuablesTable(TableType tableType, int dieSides)
         {
-            this.Type = type;
-            this.Value = value;
+            this.TableType = tableType;
+            this.DieSides = dieSides;
             this.Valuables = new List<Tuple<int, string>>();
         }
 
@@ -43,6 +34,19 @@ namespace DnDTreasureGenerator.Tables
         public void AddValuable(int roll, string name)
         {
             this.Valuables.Add(new Tuple<int, string>(roll, name));
+        }
+
+        override public string Roll()
+        {
+            var roll = this.GetDiceRoll();
+            var sb = new StringBuilder();
+
+            foreach (var t in this.Valuables.Where(x => x.Item1 == roll))
+            {
+                sb.Append(t.Item2);
+            }
+
+            return sb.ToString();
         }
     }
 }

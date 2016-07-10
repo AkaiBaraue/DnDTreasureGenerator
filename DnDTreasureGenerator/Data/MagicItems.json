@@ -1,0 +1,1840 @@
+{
+   "A": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 50,
+         "Item": "Potion of healing"
+      },
+      {
+         "RangeStart": 51,
+         "RangeEnd": 60,
+         "Item": "Spell scroll (cantrip)"
+      },
+      {
+         "RangeStart": 61,
+         "RangeEnd": 70,
+         "Item": "Potion of climbing"
+      },
+      {
+         "RangeStart": 71,
+         "RangeEnd": 90,
+         "Item": "Spell scroll (1st level)"
+      },
+      {
+         "RangeStart": 91,
+         "RangeEnd": 94,
+         "Item": "Spell scroll (2nd level)"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 98,
+         "Item": "Potion of greater healing"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Bag of holding"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Driftglobe"
+      }
+   ],
+   "B": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 15,
+         "Item": "Magic Item 9"
+      },
+      {
+         "RangeStart": 16,
+         "RangeEnd": 22,
+         "Item": "Magic Item 10"
+      },
+      {
+         "RangeStart": 23,
+         "RangeEnd": 29,
+         "Item": "Magic Item 11"
+      },
+      {
+         "RangeStart": 30,
+         "RangeEnd": 34,
+         "Item": "Magic Item 12"
+      },
+      {
+         "RangeStart": 35,
+         "RangeEnd": 39,
+         "Item": "Magic Item 13"
+      },
+      {
+         "RangeStart": 40,
+         "RangeEnd": 44,
+         "Item": "Magic Item 14"
+      },
+      {
+         "RangeStart": 45,
+         "RangeEnd": 49,
+         "Item": "Magic Item 15"
+      },
+      {
+         "RangeStart": 50,
+         "RangeEnd": 54,
+         "Item": "Magic Item 16"
+      },
+      {
+         "RangeStart": 55,
+         "RangeEnd": 59,
+         "Item": "Magic Item 17"
+      },
+      {
+         "RangeStart": 60,
+         "RangeEnd": 64,
+         "Item": "Magic Item 18"
+      },
+      {
+         "RangeStart": 65,
+         "RangeEnd": 67,
+         "Item": "Magic Item 19"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 70,
+         "Item": "Magic Item 20"
+      },
+      {
+         "RangeStart": 71,
+         "RangeEnd": 73,
+         "Item": "Magic Item 21"
+      },
+      {
+         "RangeStart": 74,
+         "RangeEnd": 75,
+         "Item": "Magic Item 22"
+      },
+      {
+         "RangeStart": 76,
+         "RangeEnd": 77,
+         "Item": "Magic Item 23"
+      },
+      {
+         "RangeStart": 78,
+         "RangeEnd": 79,
+         "Item": "Magic Item 24"
+      },
+      {
+         "RangeStart": 80,
+         "RangeEnd": 81,
+         "Item": "Magic Item 25"
+      },
+      {
+         "RangeStart": 82,
+         "RangeEnd": 83,
+         "Item": "Magic Item 26"
+      },
+      {
+         "RangeStart": 84,
+         "RangeEnd": 84,
+         "Item": "Magic Item 27"
+      },
+      {
+         "RangeStart": 85,
+         "RangeEnd": 85,
+         "Item": "Magic Item 28"
+      },
+      {
+         "RangeStart": 86,
+         "RangeEnd": 86,
+         "Item": "Magic Item 29"
+      },
+      {
+         "RangeStart": 87,
+         "RangeEnd": 87,
+         "Item": "Magic Item 30"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 88,
+         "Item": "Magic Item 31"
+      },
+      {
+         "RangeStart": 89,
+         "RangeEnd": 89,
+         "Item": "Magic Item 32"
+      },
+      {
+         "RangeStart": 90,
+         "RangeEnd": 90,
+         "Item": "Magic Item 33"
+      },
+      {
+         "RangeStart": 91,
+         "RangeEnd": 91,
+         "Item": "Magic Item 34"
+      },
+      {
+         "RangeStart": 92,
+         "RangeEnd": 92,
+         "Item": "Magic Item 35"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 93,
+         "Item": "Magic Item 36"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 94,
+         "Item": "Magic Item 37"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 95,
+         "Item": "Magic Item 38"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 96,
+         "Item": "Magic Item 39"
+      },
+      {
+         "RangeStart": 97,
+         "RangeEnd": 97,
+         "Item": "Magic Item 40"
+      },
+      {
+         "RangeStart": 98,
+         "RangeEnd": 98,
+         "Item": "Magic Item 41"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 42"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 43"
+      }
+   ],
+   "C": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 15,
+         "Item": "Magic Item 44"
+      },
+      {
+         "RangeStart": 16,
+         "RangeEnd": 22,
+         "Item": "Magic Item 45"
+      },
+      {
+         "RangeStart": 23,
+         "RangeEnd": 27,
+         "Item": "Magic Item 46"
+      },
+      {
+         "RangeStart": 28,
+         "RangeEnd": 32,
+         "Item": "Magic Item 47"
+      },
+      {
+         "RangeStart": 33,
+         "RangeEnd": 33,
+         "Item": "Magic Item 48"
+      },
+      {
+         "RangeStart": 34,
+         "RangeEnd": 37,
+         "Item": "Magic Item 49"
+      },
+      {
+         "RangeStart": 38,
+         "RangeEnd": 42,
+         "Item": "Magic Item 50"
+      },
+      {
+         "RangeStart": 43,
+         "RangeEnd": 47,
+         "Item": "Magic Item 51"
+      },
+      {
+         "RangeStart": 48,
+         "RangeEnd": 52,
+         "Item": "Magic Item 52"
+      },
+      {
+         "RangeStart": 53,
+         "RangeEnd": 57,
+         "Item": "Magic Item 53"
+      },
+      {
+         "RangeStart": 58,
+         "RangeEnd": 62,
+         "Item": "Magic Item 54"
+      },
+      {
+         "RangeStart": 63,
+         "RangeEnd": 67,
+         "Item": "Magic Item 55"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 72,
+         "Item": "Magic Item 56"
+      },
+      {
+         "RangeStart": 73,
+         "RangeEnd": 78,
+         "Item": "Magic Item 57"
+      },
+      {
+         "RangeStart": 79,
+         "RangeEnd": 81,
+         "Item": "Magic Item 58"
+      },
+      {
+         "RangeStart": 82,
+         "RangeEnd": 84,
+         "Item": "Magic Item 59"
+      },
+      {
+         "RangeStart": 85,
+         "RangeEnd": 87,
+         "Item": "Magic Item 60"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 89,
+         "Item": "Magic Item 61"
+      },
+      {
+         "RangeStart": 90,
+         "RangeEnd": 91,
+         "Item": "Magic Item 62"
+      },
+      {
+         "RangeStart": 92,
+         "RangeEnd": 92,
+         "Item": "Magic Item 63"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 93,
+         "Item": "Magic Item 64"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 94,
+         "Item": "Magic Item 65"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 95,
+         "Item": "Magic Item 66"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 96,
+         "Item": "Magic Item 67"
+      },
+      {
+         "RangeStart": 97,
+         "RangeEnd": 97,
+         "Item": "Magic Item 68"
+      },
+      {
+         "RangeStart": 98,
+         "RangeEnd": 98,
+         "Item": "Magic Item 69"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 70"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 71"
+      }
+   ],
+   "D": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 20,
+         "Item": "Magic Item 72"
+      },
+      {
+         "RangeStart": 21,
+         "RangeEnd": 30,
+         "Item": "Magic Item 73"
+      },
+      {
+         "RangeStart": 31,
+         "RangeEnd": 40,
+         "Item": "Magic Item 74"
+      },
+      {
+         "RangeStart": 41,
+         "RangeEnd": 50,
+         "Item": "Magic Item 75"
+      },
+      {
+         "RangeStart": 51,
+         "RangeEnd": 57,
+         "Item": "Magic Item 76"
+      },
+      {
+         "RangeStart": 58,
+         "RangeEnd": 62,
+         "Item": "Magic Item 77"
+      },
+      {
+         "RangeStart": 63,
+         "RangeEnd": 67,
+         "Item": "Magic Item 78"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 72,
+         "Item": "Magic Item 79"
+      },
+      {
+         "RangeStart": 73,
+         "RangeEnd": 77,
+         "Item": "Magic Item 80"
+      },
+      {
+         "RangeStart": 78,
+         "RangeEnd": 82,
+         "Item": "Magic Item 81"
+      },
+      {
+         "RangeStart": 83,
+         "RangeEnd": 87,
+         "Item": "Magic Item 82"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 92,
+         "Item": "Magic Item 83"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 95,
+         "Item": "Magic Item 84"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 98,
+         "Item": "Magic Item 85"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 86"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 87"
+      }
+   ],
+   "E": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 60,
+         "Item": "Magic Item 88"
+      },
+      {
+         "RangeStart": 61,
+         "RangeEnd": 88,
+         "Item": "Magic Item 89"
+      },
+      {
+         "RangeStart": 89,
+         "RangeEnd": 70,
+         "Item": "Magic Item 90"
+      },
+      {
+         "RangeStart": 71,
+         "RangeEnd": 85,
+         "Item": "Magic Item 91"
+      },
+      {
+         "RangeStart": 86,
+         "RangeEnd": 93,
+         "Item": "Magic Item 92"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 98,
+         "Item": "Magic Item 93"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 100,
+         "Item": "Magic Item 94"
+      }
+   ],
+   "F": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 15,
+         "Item": "Magic Item 95"
+      },
+      {
+         "RangeStart": 16,
+         "RangeEnd": 18,
+         "Item": "Magic Item 96"
+      },
+      {
+         "RangeStart": 19,
+         "RangeEnd": 21,
+         "Item": "Magic Item 97"
+      },
+      {
+         "RangeStart": 22,
+         "RangeEnd": 23,
+         "Item": "Magic Item 98"
+      },
+      {
+         "RangeStart": 24,
+         "RangeEnd": 25,
+         "Item": "Magic Item 99"
+      },
+      {
+         "RangeStart": 26,
+         "RangeEnd": 27,
+         "Item": "Magic Item 100"
+      },
+      {
+         "RangeStart": 28,
+         "RangeEnd": 29,
+         "Item": "Magic Item 101"
+      },
+      {
+         "RangeStart": 30,
+         "RangeEnd": 31,
+         "Item": "Magic Item 102"
+      },
+      {
+         "RangeStart": 32,
+         "RangeEnd": 33,
+         "Item": "Magic Item 103"
+      },
+      {
+         "RangeStart": 34,
+         "RangeEnd": 35,
+         "Item": "Magic Item 104"
+      },
+      {
+         "RangeStart": 36,
+         "RangeEnd": 37,
+         "Item": "Magic Item 105"
+      },
+      {
+         "RangeStart": 38,
+         "RangeEnd": 39,
+         "Item": "Magic Item 106"
+      },
+      {
+         "RangeStart": 40,
+         "RangeEnd": 40,
+         "Item": "Magic Item 107"
+      },
+      {
+         "RangeStart": 41,
+         "RangeEnd": 43,
+         "Item": "Magic Item 108"
+      },
+      {
+         "RangeStart": 44,
+         "RangeEnd": 45,
+         "Item": "Magic Item 109"
+      },
+      {
+         "RangeStart": 46,
+         "RangeEnd": 47,
+         "Item": "Magic Item 110"
+      },
+      {
+         "RangeStart": 48,
+         "RangeEnd": 49,
+         "Item": "Magic Item 111"
+      },
+      {
+         "RangeStart": 50,
+         "RangeEnd": 51,
+         "Item": "Magic Item 112"
+      },
+      {
+         "RangeStart": 52,
+         "RangeEnd": 53,
+         "Item": "Magic Item 113"
+      },
+      {
+         "RangeStart": 54,
+         "RangeEnd": 55,
+         "Item": "Magic Item 114"
+      },
+      {
+         "RangeStart": 56,
+         "RangeEnd": 57,
+         "Item": "Magic Item 115"
+      },
+      {
+         "RangeStart": 58,
+         "RangeEnd": 59,
+         "Item": "Magic Item 116"
+      },
+      {
+         "RangeStart": 60,
+         "RangeEnd": 61,
+         "Item": "Magic Item 117"
+      },
+      {
+         "RangeStart": 62,
+         "RangeEnd": 63,
+         "Item": "Magic Item 118"
+      },
+      {
+         "RangeStart": 64,
+         "RangeEnd": 65,
+         "Item": "Magic Item 119"
+      },
+      {
+         "RangeStart": 66,
+         "RangeEnd": 66,
+         "Item": "Magic Item 120"
+      },
+      {
+         "RangeStart": 67,
+         "RangeEnd": 67,
+         "Item": "Magic Item 121"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 68,
+         "Item": "Magic Item 122"
+      },
+      {
+         "RangeStart": 69,
+         "RangeEnd": 69,
+         "Item": "Magic Item 123"
+      },
+      {
+         "RangeStart": 70,
+         "RangeEnd": 70,
+         "Item": "Magic Item 124"
+      },
+      {
+         "RangeStart": 71,
+         "RangeEnd": 71,
+         "Item": "Magic Item 125"
+      },
+      {
+         "RangeStart": 72,
+         "RangeEnd": 72,
+         "Item": "Magic Item 126"
+      },
+      {
+         "RangeStart": 73,
+         "RangeEnd": 73,
+         "Item": "Magic Item 127"
+      },
+      {
+         "RangeStart": 74,
+         "RangeEnd": 74,
+         "Item": "Magic Item 128"
+      },
+      {
+         "RangeStart": 75,
+         "RangeEnd": 75,
+         "Item": "Magic Item 129"
+      },
+      {
+         "RangeStart": 76,
+         "RangeEnd": 76,
+         "Item": "Magic Item 130"
+      },
+      {
+         "RangeStart": 77,
+         "RangeEnd": 77,
+         "Item": "Magic Item 131"
+      },
+      {
+         "RangeStart": 78,
+         "RangeEnd": 78,
+         "Item": "Magic Item 132"
+      },
+      {
+         "RangeStart": 79,
+         "RangeEnd": 79,
+         "Item": "Magic Item 133"
+      },
+      {
+         "RangeStart": 80,
+         "RangeEnd": 80,
+         "Item": "Magic Item 134"
+      },
+      {
+         "RangeStart": 81,
+         "RangeEnd": 81,
+         "Item": "Magic Item 135"
+      },
+      {
+         "RangeStart": 82,
+         "RangeEnd": 82,
+         "Item": "Magic Item 136"
+      },
+      {
+         "RangeStart": 83,
+         "RangeEnd": 83,
+         "Item": "Magic Item 137"
+      },
+      {
+         "RangeStart": 84,
+         "RangeEnd": 84,
+         "Item": "Magic Item 138"
+      },
+      {
+         "RangeStart": 85,
+         "RangeEnd": 85,
+         "Item": "Magic Item 139"
+      },
+      {
+         "RangeStart": 86,
+         "RangeEnd": 86,
+         "Item": "Magic Item 140"
+      },
+      {
+         "RangeStart": 87,
+         "RangeEnd": 87,
+         "Item": "Magic Item 141"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 88,
+         "Item": "Magic Item 142"
+      },
+      {
+         "RangeStart": 89,
+         "RangeEnd": 89,
+         "Item": "Magic Item 143"
+      },
+      {
+         "RangeStart": 90,
+         "RangeEnd": 90,
+         "Item": "Magic Item 144"
+      },
+      {
+         "RangeStart": 91,
+         "RangeEnd": 91,
+         "Item": "Magic Item 145"
+      },
+      {
+         "RangeStart": 92,
+         "RangeEnd": 92,
+         "Item": "Magic Item 146"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 93,
+         "Item": "Magic Item 147"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 94,
+         "Item": "Magic Item 148"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 95,
+         "Item": "Magic Item 149"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 96,
+         "Item": "Magic Item 150"
+      },
+      {
+         "RangeStart": 97,
+         "RangeEnd": 97,
+         "Item": "Magic Item 151"
+      },
+      {
+         "RangeStart": 98,
+         "RangeEnd": 98,
+         "Item": "Magic Item 152"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 153"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 154"
+      }
+   ],
+   "G": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 11,
+         "Item": "Magic Item 155"
+      },
+      {
+         "RangeStart": 12,
+         "RangeEnd": 14,
+         "Item": "Magic Item 156"
+      },
+      {
+         "RangeStart": 15,
+         "RangeEnd": 15,
+         "Item": "Magic Item 157"
+      },
+      {
+         "RangeStart": 16,
+         "RangeEnd": 16,
+         "Item": "Magic Item 158"
+      },
+      {
+         "RangeStart": 17,
+         "RangeEnd": 17,
+         "Item": "Magic Item 159"
+      },
+      {
+         "RangeStart": 18,
+         "RangeEnd": 18,
+         "Item": "Magic Item 160"
+      },
+      {
+         "RangeStart": 19,
+         "RangeEnd": 19,
+         "Item": "Magic Item 161"
+      },
+      {
+         "RangeStart": 20,
+         "RangeEnd": 20,
+         "Item": "Magic Item 162"
+      },
+      {
+         "RangeStart": 21,
+         "RangeEnd": 21,
+         "Item": "Magic Item 163"
+      },
+      {
+         "RangeStart": 22,
+         "RangeEnd": 22,
+         "Item": "Magic Item 164"
+      },
+      {
+         "RangeStart": 23,
+         "RangeEnd": 23,
+         "Item": "Magic Item 165"
+      },
+      {
+         "RangeStart": 24,
+         "RangeEnd": 24,
+         "Item": "Magic Item 166"
+      },
+      {
+         "RangeStart": 25,
+         "RangeEnd": 25,
+         "Item": "Magic Item 167"
+      },
+      {
+         "RangeStart": 26,
+         "RangeEnd": 26,
+         "Item": "Magic Item 168"
+      },
+      {
+         "RangeStart": 27,
+         "RangeEnd": 27,
+         "Item": "Magic Item 169"
+      },
+      {
+         "RangeStart": 28,
+         "RangeEnd": 28,
+         "Item": "Magic Item 170"
+      },
+      {
+         "RangeStart": 29,
+         "RangeEnd": 29,
+         "Item": "Magic Item 171"
+      },
+      {
+         "RangeStart": 30,
+         "RangeEnd": 30,
+         "Item": "Magic Item 172"
+      },
+      {
+         "RangeStart": 31,
+         "RangeEnd": 31,
+         "Item": "Magic Item 173"
+      },
+      {
+         "RangeStart": 32,
+         "RangeEnd": 32,
+         "Item": "Magic Item 174"
+      },
+      {
+         "RangeStart": 33,
+         "RangeEnd": 33,
+         "Item": "Magic Item 175"
+      },
+      {
+         "RangeStart": 34,
+         "RangeEnd": 34,
+         "Item": "Magic Item 176"
+      },
+      {
+         "RangeStart": 35,
+         "RangeEnd": 35,
+         "Item": "Magic Item 177"
+      },
+      {
+         "RangeStart": 36,
+         "RangeEnd": 36,
+         "Item": "Magic Item 178"
+      },
+      {
+         "RangeStart": 37,
+         "RangeEnd": 37,
+         "Item": "Magic Item 179"
+      },
+      {
+         "RangeStart": 38,
+         "RangeEnd": 38,
+         "Item": "Magic Item 180"
+      },
+      {
+         "RangeStart": 39,
+         "RangeEnd": 39,
+         "Item": "Magic Item 181"
+      },
+      {
+         "RangeStart": 40,
+         "RangeEnd": 40,
+         "Item": "Magic Item 182"
+      },
+      {
+         "RangeStart": 41,
+         "RangeEnd": 41,
+         "Item": "Magic Item 183"
+      },
+      {
+         "RangeStart": 42,
+         "RangeEnd": 42,
+         "Item": "Magic Item 184"
+      },
+      {
+         "RangeStart": 43,
+         "RangeEnd": 43,
+         "Item": "Magic Item 185"
+      },
+      {
+         "RangeStart": 44,
+         "RangeEnd": 44,
+         "Item": "Magic Item 186"
+      },
+      {
+         "RangeStart": 45,
+         "RangeEnd": 45,
+         "Item": "Magic Item 187"
+      },
+      {
+         "RangeStart": 46,
+         "RangeEnd": 46,
+         "Item": "Magic Item 188"
+      },
+      {
+         "RangeStart": 47,
+         "RangeEnd": 47,
+         "Item": "Magic Item 189"
+      },
+      {
+         "RangeStart": 48,
+         "RangeEnd": 48,
+         "Item": "Magic Item 190"
+      },
+      {
+         "RangeStart": 49,
+         "RangeEnd": 49,
+         "Item": "Magic Item 191"
+      },
+      {
+         "RangeStart": 50,
+         "RangeEnd": 50,
+         "Item": "Magic Item 192"
+      },
+      {
+         "RangeStart": 51,
+         "RangeEnd": 51,
+         "Item": "Magic Item 193"
+      },
+      {
+         "RangeStart": 52,
+         "RangeEnd": 52,
+         "Item": "Magic Item 194"
+      },
+      {
+         "RangeStart": 53,
+         "RangeEnd": 53,
+         "Item": "Magic Item 195"
+      },
+      {
+         "RangeStart": 54,
+         "RangeEnd": 54,
+         "Item": "Magic Item 196"
+      },
+      {
+         "RangeStart": 55,
+         "RangeEnd": 55,
+         "Item": "Magic Item 197"
+      },
+      {
+         "RangeStart": 56,
+         "RangeEnd": 56,
+         "Item": "Magic Item 198"
+      },
+      {
+         "RangeStart": 57,
+         "RangeEnd": 57,
+         "Item": "Magic Item 199"
+      },
+      {
+         "RangeStart": 58,
+         "RangeEnd": 58,
+         "Item": "Magic Item 200"
+      },
+      {
+         "RangeStart": 59,
+         "RangeEnd": 59,
+         "Item": "Magic Item 201"
+      },
+      {
+         "RangeStart": 60,
+         "RangeEnd": 60,
+         "Item": "Magic Item 202"
+      },
+      {
+         "RangeStart": 61,
+         "RangeEnd": 61,
+         "Item": "Magic Item 203"
+      },
+      {
+         "RangeStart": 62,
+         "RangeEnd": 62,
+         "Item": "Magic Item 204"
+      },
+      {
+         "RangeStart": 63,
+         "RangeEnd": 63,
+         "Item": "Magic Item 205"
+      },
+      {
+         "RangeStart": 64,
+         "RangeEnd": 64,
+         "Item": "Magic Item 206"
+      },
+      {
+         "RangeStart": 65,
+         "RangeEnd": 65,
+         "Item": "Magic Item 207"
+      },
+      {
+         "RangeStart": 66,
+         "RangeEnd": 66,
+         "Item": "Magic Item 208"
+      },
+      {
+         "RangeStart": 67,
+         "RangeEnd": 67,
+         "Item": "Magic Item 209"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 68,
+         "Item": "Magic Item 210"
+      },
+      {
+         "RangeStart": 69,
+         "RangeEnd": 69,
+         "Item": "Magic Item 211"
+      },
+      {
+         "RangeStart": 70,
+         "RangeEnd": 70,
+         "Item": "Magic Item 212"
+      },
+      {
+         "RangeStart": 71,
+         "RangeEnd": 71,
+         "Item": "Magic Item 213"
+      },
+      {
+         "RangeStart": 72,
+         "RangeEnd": 72,
+         "Item": "Magic Item 214"
+      },
+      {
+         "RangeStart": 73,
+         "RangeEnd": 73,
+         "Item": "Magic Item 215"
+      },
+      {
+         "RangeStart": 74,
+         "RangeEnd": 74,
+         "Item": "Magic Item 216"
+      },
+      {
+         "RangeStart": 75,
+         "RangeEnd": 75,
+         "Item": "Magic Item 217"
+      },
+      {
+         "RangeStart": 76,
+         "RangeEnd": 76,
+         "Item": "Magic Item 218"
+      },
+      {
+         "RangeStart": 77,
+         "RangeEnd": 77,
+         "Item": "Magic Item 219"
+      },
+      {
+         "RangeStart": 78,
+         "RangeEnd": 78,
+         "Item": "Magic Item 220"
+      },
+      {
+         "RangeStart": 79,
+         "RangeEnd": 79,
+         "Item": "Magic Item 221"
+      },
+      {
+         "RangeStart": 80,
+         "RangeEnd": 80,
+         "Item": "Magic Item 222"
+      },
+      {
+         "RangeStart": 81,
+         "RangeEnd": 81,
+         "Item": "Magic Item 223"
+      },
+      {
+         "RangeStart": 82,
+         "RangeEnd": 82,
+         "Item": "Magic Item 224"
+      },
+      {
+         "RangeStart": 83,
+         "RangeEnd": 83,
+         "Item": "Magic Item 225"
+      },
+      {
+         "RangeStart": 84,
+         "RangeEnd": 84,
+         "Item": "Magic Item 226"
+      },
+      {
+         "RangeStart": 85,
+         "RangeEnd": 85,
+         "Item": "Magic Item 227"
+      },
+      {
+         "RangeStart": 86,
+         "RangeEnd": 86,
+         "Item": "Magic Item 228"
+      },
+      {
+         "RangeStart": 87,
+         "RangeEnd": 87,
+         "Item": "Magic Item 229"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 88,
+         "Item": "Magic Item 230"
+      },
+      {
+         "RangeStart": 89,
+         "RangeEnd": 89,
+         "Item": "Magic Item 231"
+      },
+      {
+         "RangeStart": 90,
+         "RangeEnd": 90,
+         "Item": "Magic Item 232"
+      },
+      {
+         "RangeStart": 91,
+         "RangeEnd": 91,
+         "Item": "Magic Item 233"
+      },
+      {
+         "RangeStart": 92,
+         "RangeEnd": 92,
+         "Item": "Magic Item 234"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 93,
+         "Item": "Magic Item 235"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 94,
+         "Item": "Magic Item 236"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 95,
+         "Item": "Magic Item 237"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 96,
+         "Item": "Magic Item 238"
+      },
+      {
+         "RangeStart": 97,
+         "RangeEnd": 97,
+         "Item": "Magic Item 239"
+      },
+      {
+         "RangeStart": 98,
+         "RangeEnd": 98,
+         "Item": "Magic Item 240"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 241"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 242"
+      }
+   ],
+   "H": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 10,
+         "Item": "Magic Item 243"
+      },
+      {
+         "RangeStart": 11,
+         "RangeEnd": 12,
+         "Item": "Magic Item 244"
+      },
+      {
+         "RangeStart": 13,
+         "RangeEnd": 14,
+         "Item": "Magic Item 245"
+      },
+      {
+         "RangeStart": 15,
+         "RangeEnd": 16,
+         "Item": "Magic Item 246"
+      },
+      {
+         "RangeStart": 17,
+         "RangeEnd": 18,
+         "Item": "Magic Item 247"
+      },
+      {
+         "RangeStart": 19,
+         "RangeEnd": 20,
+         "Item": "Magic Item 248"
+      },
+      {
+         "RangeStart": 21,
+         "RangeEnd": 22,
+         "Item": "Magic Item 249"
+      },
+      {
+         "RangeStart": 23,
+         "RangeEnd": 24,
+         "Item": "Magic Item 250"
+      },
+      {
+         "RangeStart": 25,
+         "RangeEnd": 26,
+         "Item": "Magic Item 251"
+      },
+      {
+         "RangeStart": 27,
+         "RangeEnd": 28,
+         "Item": "Magic Item 252"
+      },
+      {
+         "RangeStart": 29,
+         "RangeEnd": 30,
+         "Item": "Magic Item 253"
+      },
+      {
+         "RangeStart": 31,
+         "RangeEnd": 32,
+         "Item": "Magic Item 254"
+      },
+      {
+         "RangeStart": 33,
+         "RangeEnd": 34,
+         "Item": "Magic Item 255"
+      },
+      {
+         "RangeStart": 35,
+         "RangeEnd": 36,
+         "Item": "Magic Item 256"
+      },
+      {
+         "RangeStart": 37,
+         "RangeEnd": 38,
+         "Item": "Magic Item 257"
+      },
+      {
+         "RangeStart": 39,
+         "RangeEnd": 40,
+         "Item": "Magic Item 258"
+      },
+      {
+         "RangeStart": 41,
+         "RangeEnd": 42,
+         "Item": "Magic Item 259"
+      },
+      {
+         "RangeStart": 43,
+         "RangeEnd": 44,
+         "Item": "Magic Item 260"
+      },
+      {
+         "RangeStart": 45,
+         "RangeEnd": 46,
+         "Item": "Magic Item 261"
+      },
+      {
+         "RangeStart": 47,
+         "RangeEnd": 48,
+         "Item": "Magic Item 262"
+      },
+      {
+         "RangeStart": 49,
+         "RangeEnd": 50,
+         "Item": "Magic Item 263"
+      },
+      {
+         "RangeStart": 51,
+         "RangeEnd": 52,
+         "Item": "Magic Item 264"
+      },
+      {
+         "RangeStart": 53,
+         "RangeEnd": 54,
+         "Item": "Magic Item 265"
+      },
+      {
+         "RangeStart": 55,
+         "RangeEnd": 55,
+         "Item": "Magic Item 266"
+      },
+      {
+         "RangeStart": 56,
+         "RangeEnd": 56,
+         "Item": "Magic Item 267"
+      },
+      {
+         "RangeStart": 57,
+         "RangeEnd": 57,
+         "Item": "Magic Item 268"
+      },
+      {
+         "RangeStart": 58,
+         "RangeEnd": 58,
+         "Item": "Magic Item 269"
+      },
+      {
+         "RangeStart": 59,
+         "RangeEnd": 59,
+         "Item": "Magic Item 270"
+      },
+      {
+         "RangeStart": 60,
+         "RangeEnd": 60,
+         "Item": "Magic Item 271"
+      },
+      {
+         "RangeStart": 61,
+         "RangeEnd": 61,
+         "Item": "Magic Item 272"
+      },
+      {
+         "RangeStart": 62,
+         "RangeEnd": 62,
+         "Item": "Magic Item 273"
+      },
+      {
+         "RangeStart": 63,
+         "RangeEnd": 63,
+         "Item": "Magic Item 274"
+      },
+      {
+         "RangeStart": 64,
+         "RangeEnd": 64,
+         "Item": "Magic Item 275"
+      },
+      {
+         "RangeStart": 65,
+         "RangeEnd": 65,
+         "Item": "Magic Item 276"
+      },
+      {
+         "RangeStart": 66,
+         "RangeEnd": 66,
+         "Item": "Magic Item 277"
+      },
+      {
+         "RangeStart": 67,
+         "RangeEnd": 67,
+         "Item": "Magic Item 278"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 68,
+         "Item": "Magic Item 279"
+      },
+      {
+         "RangeStart": 69,
+         "RangeEnd": 69,
+         "Item": "Magic Item 280"
+      },
+      {
+         "RangeStart": 70,
+         "RangeEnd": 70,
+         "Item": "Magic Item 281"
+      },
+      {
+         "RangeStart": 71,
+         "RangeEnd": 71,
+         "Item": "Magic Item 282"
+      },
+      {
+         "RangeStart": 72,
+         "RangeEnd": 72,
+         "Item": "Magic Item 283"
+      },
+      {
+         "RangeStart": 73,
+         "RangeEnd": 73,
+         "Item": "Magic Item 284"
+      },
+      {
+         "RangeStart": 74,
+         "RangeEnd": 74,
+         "Item": "Magic Item 285"
+      },
+      {
+         "RangeStart": 75,
+         "RangeEnd": 75,
+         "Item": "Magic Item 286"
+      },
+      {
+         "RangeStart": 76,
+         "RangeEnd": 76,
+         "Item": "Magic Item 287"
+      },
+      {
+         "RangeStart": 77,
+         "RangeEnd": 77,
+         "Item": "Magic Item 288"
+      },
+      {
+         "RangeStart": 78,
+         "RangeEnd": 78,
+         "Item": "Magic Item 289"
+      },
+      {
+         "RangeStart": 79,
+         "RangeEnd": 79,
+         "Item": "Magic Item 290"
+      },
+      {
+         "RangeStart": 80,
+         "RangeEnd": 80,
+         "Item": "Magic Item 291"
+      },
+      {
+         "RangeStart": 81,
+         "RangeEnd": 81,
+         "Item": "Magic Item 292"
+      },
+      {
+         "RangeStart": 82,
+         "RangeEnd": 82,
+         "Item": "Magic Item 293"
+      },
+      {
+         "RangeStart": 83,
+         "RangeEnd": 83,
+         "Item": "Magic Item 294"
+      },
+      {
+         "RangeStart": 84,
+         "RangeEnd": 84,
+         "Item": "Magic Item 295"
+      },
+      {
+         "RangeStart": 85,
+         "RangeEnd": 85,
+         "Item": "Magic Item 296"
+      },
+      {
+         "RangeStart": 86,
+         "RangeEnd": 86,
+         "Item": "Magic Item 297"
+      },
+      {
+         "RangeStart": 87,
+         "RangeEnd": 87,
+         "Item": "Magic Item 298"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 88,
+         "Item": "Magic Item 299"
+      },
+      {
+         "RangeStart": 89,
+         "RangeEnd": 89,
+         "Item": "Magic Item 300"
+      },
+      {
+         "RangeStart": 90,
+         "RangeEnd": 90,
+         "Item": "Magic Item 301"
+      },
+      {
+         "RangeStart": 91,
+         "RangeEnd": 91,
+         "Item": "Magic Item 302"
+      },
+      {
+         "RangeStart": 92,
+         "RangeEnd": 92,
+         "Item": "Magic Item 303"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 93,
+         "Item": "Magic Item 304"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 94,
+         "Item": "Magic Item 305"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 95,
+         "Item": "Magic Item 306"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 96,
+         "Item": "Magic Item 307"
+      },
+      {
+         "RangeStart": 97,
+         "RangeEnd": 97,
+         "Item": "Magic Item 308"
+      },
+      {
+         "RangeStart": 98,
+         "RangeEnd": 98,
+         "Item": "Magic Item 309"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 310"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 311"
+      }
+   ],
+   "I": [
+      {
+         "RangeStart": 1,
+         "RangeEnd": 5,
+         "Item": "Magic Item 312"
+      },
+      {
+         "RangeStart": 6,
+         "RangeEnd": 10,
+         "Item": "Magic Item 313"
+      },
+      {
+         "RangeStart": 11,
+         "RangeEnd": 15,
+         "Item": "Magic Item 314"
+      },
+      {
+         "RangeStart": 16,
+         "RangeEnd": 20,
+         "Item": "Magic Item 315"
+      },
+      {
+         "RangeStart": 21,
+         "RangeEnd": 23,
+         "Item": "Magic Item 316"
+      },
+      {
+         "RangeStart": 24,
+         "RangeEnd": 26,
+         "Item": "Magic Item 317"
+      },
+      {
+         "RangeStart": 27,
+         "RangeEnd": 29,
+         "Item": "Magic Item 318"
+      },
+      {
+         "RangeStart": 30,
+         "RangeEnd": 32,
+         "Item": "Magic Item 319"
+      },
+      {
+         "RangeStart": 33,
+         "RangeEnd": 35,
+         "Item": "Magic Item 320"
+      },
+      {
+         "RangeStart": 36,
+         "RangeEnd": 38,
+         "Item": "Magic Item 321"
+      },
+      {
+         "RangeStart": 39,
+         "RangeEnd": 41,
+         "Item": "Magic Item 322"
+      },
+      {
+         "RangeStart": 42,
+         "RangeEnd": 43,
+         "Item": "Magic Item 323"
+      },
+      {
+         "RangeStart": 44,
+         "RangeEnd": 45,
+         "Item": "Magic Item 324"
+      },
+      {
+         "RangeStart": 46,
+         "RangeEnd": 47,
+         "Item": "Magic Item 325"
+      },
+      {
+         "RangeStart": 48,
+         "RangeEnd": 49,
+         "Item": "Magic Item 326"
+      },
+      {
+         "RangeStart": 50,
+         "RangeEnd": 51,
+         "Item": "Magic Item 327"
+      },
+      {
+         "RangeStart": 52,
+         "RangeEnd": 53,
+         "Item": "Magic Item 328"
+      },
+      {
+         "RangeStart": 54,
+         "RangeEnd": 55,
+         "Item": "Magic Item 329"
+      },
+      {
+         "RangeStart": 56,
+         "RangeEnd": 57,
+         "Item": "Magic Item 330"
+      },
+      {
+         "RangeStart": 58,
+         "RangeEnd": 59,
+         "Item": "Magic Item 331"
+      },
+      {
+         "RangeStart": 60,
+         "RangeEnd": 61,
+         "Item": "Magic Item 332"
+      },
+      {
+         "RangeStart": 62,
+         "RangeEnd": 63,
+         "Item": "Magic Item 333"
+      },
+      {
+         "RangeStart": 64,
+         "RangeEnd": 65,
+         "Item": "Magic Item 334"
+      },
+      {
+         "RangeStart": 66,
+         "RangeEnd": 67,
+         "Item": "Magic Item 335"
+      },
+      {
+         "RangeStart": 68,
+         "RangeEnd": 69,
+         "Item": "Magic Item 336"
+      },
+      {
+         "RangeStart": 70,
+         "RangeEnd": 71,
+         "Item": "Magic Item 337"
+      },
+      {
+         "RangeStart": 72,
+         "RangeEnd": 73,
+         "Item": "Magic Item 338"
+      },
+      {
+         "RangeStart": 74,
+         "RangeEnd": 75,
+         "Item": "Magic Item 339"
+      },
+      {
+         "RangeStart": 76,
+         "RangeEnd": 76,
+         "Item": "Magic Item 340"
+      },
+      {
+         "RangeStart": 77,
+         "RangeEnd": 77,
+         "Item": "Magic Item 341"
+      },
+      {
+         "RangeStart": 78,
+         "RangeEnd": 78,
+         "Item": "Magic Item 342"
+      },
+      {
+         "RangeStart": 79,
+         "RangeEnd": 79,
+         "Item": "Magic Item 343"
+      },
+      {
+         "RangeStart": 80,
+         "RangeEnd": 80,
+         "Item": "Magic Item 344"
+      },
+      {
+         "RangeStart": 81,
+         "RangeEnd": 81,
+         "Item": "Magic Item 345"
+      },
+      {
+         "RangeStart": 82,
+         "RangeEnd": 82,
+         "Item": "Magic Item 346"
+      },
+      {
+         "RangeStart": 83,
+         "RangeEnd": 83,
+         "Item": "Magic Item 347"
+      },
+      {
+         "RangeStart": 84,
+         "RangeEnd": 84,
+         "Item": "Magic Item 348"
+      },
+      {
+         "RangeStart": 85,
+         "RangeEnd": 85,
+         "Item": "Magic Item 349"
+      },
+      {
+         "RangeStart": 86,
+         "RangeEnd": 86,
+         "Item": "Magic Item 350"
+      },
+      {
+         "RangeStart": 87,
+         "RangeEnd": 87,
+         "Item": "Magic Item 351"
+      },
+      {
+         "RangeStart": 88,
+         "RangeEnd": 88,
+         "Item": "Magic Item 352"
+      },
+      {
+         "RangeStart": 89,
+         "RangeEnd": 89,
+         "Item": "Magic Item 353"
+      },
+      {
+         "RangeStart": 90,
+         "RangeEnd": 90,
+         "Item": "Magic Item 354"
+      },
+      {
+         "RangeStart": 91,
+         "RangeEnd": 91,
+         "Item": "Magic Item 355"
+      },
+      {
+         "RangeStart": 92,
+         "RangeEnd": 92,
+         "Item": "Magic Item 356"
+      },
+      {
+         "RangeStart": 93,
+         "RangeEnd": 93,
+         "Item": "Magic Item 357"
+      },
+      {
+         "RangeStart": 94,
+         "RangeEnd": 94,
+         "Item": "Magic Item 358"
+      },
+      {
+         "RangeStart": 95,
+         "RangeEnd": 95,
+         "Item": "Magic Item 359"
+      },
+      {
+         "RangeStart": 96,
+         "RangeEnd": 96,
+         "Item": "Magic Item 360"
+      },
+      {
+         "RangeStart": 97,
+         "RangeEnd": 97,
+         "Item": "Magic Item 361"
+      },
+      {
+         "RangeStart": 98,
+         "RangeEnd": 98,
+         "Item": "Magic Item 362"
+      },
+      {
+         "RangeStart": 99,
+         "RangeEnd": 99,
+         "Item": "Magic Item 363"
+      },
+      {
+         "RangeStart": 100,
+         "RangeEnd": 100,
+         "Item": "Magic Item 364"
+      }
+   ]
+}

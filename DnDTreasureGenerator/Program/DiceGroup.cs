@@ -8,34 +8,34 @@ namespace DnDTreasureGenerator.Program
 {
     class DiceGroup
     {
-        private List<Dice> dies;
+        private List<Die> dies;
 
-        public List<Dice> Dies { get { return this.dies; } private set { this.dies = value; } }
+        public List<Die> Dies { get { return this.dies; } private set { this.dies = value; } }
 
         public DiceGroup(int d4 = 0, int d6 = 0, int d8 = 0, int d10 = 0, int d12 = 0, int d20 = 0, int d100 = 0)
         {
-            this.dies = new List<Dice>();
+            this.dies = new List<Die>();
 
             // Add D4s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(4));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(4));
 
             // Add D6s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(6));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(6));
 
             // Add D8s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(8));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(8));
 
             // Add D10s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(10));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(10));
 
             // Add D12s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(12));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(12));
 
             // Add D20s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(20));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(20));
 
             // Add D100s
-            for (int i = 0; i < d4; i++) this.dies.Add(new Dice(100));
+            for (int i = 0; i < d4; i++) this.dies.Add(new Die(100));
         }
 
         /// <summary>
@@ -75,7 +75,7 @@ namespace DnDTreasureGenerator.Program
         {
             if (sides <= 0) return;
 
-            var newDice = new Dice(sides);
+            var newDice = new Die(sides);
 
             for (int i = 0; i < this.dies.Count; i++)
             {

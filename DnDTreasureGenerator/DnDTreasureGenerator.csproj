@@ -56,7 +56,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Tables\AllTables.cs" />
+    <Compile Include="JsonModels\IndividualTreasure_Model.cs" />
+    <Compile Include="JsonModels\MagicItems_Model.cs" />
+    <Compile Include="JsonModels\TreasureHoard_Model.cs" />
+    <Compile Include="Program\Coins.cs" />
+    <Compile Include="Tables\TableCollection.cs" />
+    <Compile Include="Tables\ATable.cs" />
+    <Compile Include="Tables\ItemsTable.cs" />
+    <Compile Include="Tables\TableType.cs" />
+    <Compile Include="Tables\TreasureTable.cs" />
     <Compile Include="Tables\ValuablesTable.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -74,7 +82,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program\Dice.cs" />
+    <Compile Include="Program\Die.cs" />
     <Compile Include="JsonModels\JsonParser.cs" />
     <Compile Include="Program\DiceGroup.cs" />
     <Compile Include="Program\Main.cs" />
@@ -102,7 +110,13 @@
     <Content Include="Data\Gems.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\Gems2.json">
+    <Content Include="Data\IndividualTreasure.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\TreasureHoard.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\MagicItems.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />

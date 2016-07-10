@@ -1,108 +1,108 @@
 {
-   "gp-25": [
+   "Gp25": [
       {
          "Result": 1,
-         "Name": "Silver Ewer"
+         "Name": "Silver ewer"
       },
       {
          "Result": 2,
-         "Name": "Carved Bone Statuette"
+         "Name": "Carved bone statuette"
       },
       {
          "Result": 3,
-         "Name": "Small Gold Bracelet"
+         "Name": "Small gold bracelet"
       },
       {
          "Result": 4,
-         "Name": "Cloth-of-gold Vestments"
+         "Name": "Cloth-of-gold vestments"
       },
       {
          "Result": 5,
-         "Name": "Black Velvet Mask Stitched with Silver Thread"
+         "Name": "Black velvet mask stitched with silver thread"
       },
       {
          "Result": 6,
-         "Name": "Copper Chalice wih Silver Filigree"
+         "Name": "Copper chalice wih silver filigree"
       },
       {
          "Result": 7,
-         "Name": "Pair of Engraved Bone Dice"
+         "Name": "Pair of engraved bone dice"
       },
       {
          "Result": 8,
-         "Name": "Small Mirror Set in a Painted Wooden Frame"
+         "Name": "Small mirror set in a painted wooden frame"
       },
       {
          "Result": 9,
-         "Name": "Embroidered Silk Handkerchief"
+         "Name": "Embroidered silk handkerchief"
       },
       {
          "Result": 10,
-         "Name": "Gold Locket with a Painted Portrait Inside"
+         "Name": "Gold locket with a painted portrait inside"
       }
    ],
-   "gp-250": [
+   "Gp250": [
       {
          "Result": 1,
-         "Name": "Gold Ring Set with Bloodstones"
+         "Name": "Gold ring set with bloodstones"
       },
       {
          "Result": 2,
-         "Name": "Carved Ivory Statuette"
+         "Name": "Carved ivory statuette"
       },
       {
          "Result": 3,
-         "Name": "Large Fold Bracelet"
+         "Name": "Large fold bracelet"
       },
       {
          "Result": 4,
-         "Name": "Silver Necklace with a Gemstone Pendant"
+         "Name": "Silver necklace with a gemstone pendant"
       },
       {
          "Result": 5,
-         "Name": "Bronze Crown"
+         "Name": "Bronze crown"
       },
       {
          "Result": 6,
-         "Name": "Silk Robe wit Gold Embroidery"
+         "Name": "Silk robe wit gold embroidery"
       },
       {
          "Result": 7,
-         "Name": "Large Well-Made Tapestry"
+         "Name": "Large well-made tapestry"
       },
       {
          "Result": 8,
-         "Name": "Brass Mug with Jade Inlay"
+         "Name": "Brass mug with jade inlay"
       },
       {
          "Result": 9,
-         "Name": "Box of Turquoise Animal Figurines"
+         "Name": "Box of turquoise animal figurines"
       },
       {
          "Result": 10,
-         "Name": "Gold Bird Cage with Electrum Filigree"
+         "Name": "Gold bird cage with electrum filigree"
       }
    ],
-   "gp-750": [
+   "Gp750": [
       {
          "Result": 1,
-         "Name": "Silver Chalice Set with Moonstones"
+         "Name": "Silver chalice set with moonstones"
       },
       {
          "Result": 2,
-         "Name": "Silver-Plated Steel Longsword with Jet set in Hilt"
+         "Name": "Silver-plated steel longsword with jet set in hilt"
       },
       {
          "Result": 3,
-         "Name": "Carved Harp of Exotic Wood with Ivory Inlay and Zircon Gems"
+         "Name": "Carved harp of exotic wood with ivory inlay and zircon gems"
       },
       {
          "Result": 4,
-         "Name": "Small Gold Idol"
+         "Name": "Small gold idol"
       },
       {
          "Result": 5,
-         "Name": "Gold Dragon Comb Set with Red Garnets as Eyes"
+         "Name": "Gold dragon comb set with red garnets as eyes"
       },
       {
          "Result": 6,
@@ -125,7 +125,7 @@
          "Name": "Painted fold war mask"
       }
    ],
-   "gp-2500": [
+   "Gp2500": [
       {
          "Result": 1,
          "Name": "Fine gold chain set with a fire opal"
@@ -167,7 +167,7 @@
          "Name": "A necklace string of small pink pearls"
       }
    ],
-   "gp-7500": [
+   "Gp7500": [
       {
          "Result": 1,
          "Name": "Jeweled gold crown"

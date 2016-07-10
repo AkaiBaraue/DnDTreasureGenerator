@@ -8,11 +8,11 @@ namespace DnDTreasureGenerator.JsonModels
 {
     class ArtObjects_Model
     {
-        public List<Gp25> ArtObjectsWorth25gp { get; set; }
-        public List<Gp250> ArtObjectsWorth250gp { get; set; }
-        public List<Gp750> ArtObjectsWorth750gp { get; set; }
-        public List<Gp2500> ArtObjectsWorth2500gp { get; set; }
-        public List<Gp7500> ArtObjectsWorth7500gp { get; set; }
+        public List<Gp25> Gp25 { get; set; }
+        public List<Gp250> Gp250 { get; set; }
+        public List<Gp750> Gp750 { get; set; }
+        public List<Gp2500> Gp2500 { get; set; }
+        public List<Gp7500> Gp7500 { get; set; }
     }
 
     public class Gp25
