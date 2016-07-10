@@ -1,5 +1,5 @@
 {
-   "gp-10": [
+   "Gp10": [
       {
          "Result": 1,
          "Name": "Azurite"
@@ -49,7 +49,7 @@
          "Name": "Turquoise"
       }
    ],
-   "gp-50": [
+   "Gp50": [
       {
          "Result": 1,
          "Name": "Bloodstone"
@@ -99,7 +99,7 @@
          "Name": "Zircon"
       }
    ],
-   "gp-100": [
+   "Gp100": [
       {
          "Result": 1,
          "Name": "Amber"
@@ -141,7 +141,7 @@
          "Name": "Tourmaline"
       }
    ],
-   "gp-500": [
+   "Gp500": [
       {
          "Result": 1,
          "Name": "Alexandrite"
@@ -167,7 +167,7 @@
          "Name": "Topaz"
       }
    ],
-   "gp-1000": [
+   "Gp1000": [
       {
          "Result": 1,
          "Name": "Black Opal"
@@ -201,7 +201,7 @@
          "Name": "Yellow Sapphire"
       }
    ],
-   "gp-5000": [
+   "Gp5000": [
       {
          "Result": 1,
          "Name": "Black Sapphire"

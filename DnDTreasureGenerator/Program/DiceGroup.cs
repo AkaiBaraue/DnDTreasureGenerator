@@ -10,6 +10,8 @@ namespace DnDTreasureGenerator.Program
     {
         private List<Dice> dies;
 
+        public List<Dice> Dies { get { return this.dies; } private set { this.dies = value; } }
+
         public DiceGroup(int d4 = 0, int d6 = 0, int d8 = 0, int d10 = 0, int d12 = 0, int d20 = 0, int d100 = 0)
         {
             this.dies = new List<Dice>();
@@ -45,7 +47,22 @@ namespace DnDTreasureGenerator.Program
             int result = 0;
 
             foreach (var d in this.dies)
-                this.result += d.Roll();
+                result += d.Roll();
+
+            return result;
+        }
+
+        public int RollMin()
+        {
+            return this.dies.Count;
+        }
+
+        public int RollMax()
+        {
+            int result = 0;
+
+            foreach (var d in this.dies)
+                result += d.Sides;
 
             return result;
         }
@@ -57,7 +74,19 @@ namespace DnDTreasureGenerator.Program
         public void AddDice(int sides)
         {
             if (sides <= 0) return;
-            this.dies.Add(new Dice(sides));
+
+            var newDice = new Dice(sides);
+
+            for (int i = 0; i < this.dies.Count; i++)
+            {
+                if (this.dies[i].Sides >= sides)
+                {
+                    this.dies.Insert(i, newDice);
+                    return;
+                }
+            }
+
+            this.dies.Add(newDice);
         }
 
         /// <summary>

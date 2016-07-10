@@ -10,10 +10,14 @@ namespace DnDTreasureGenerator.Program
     {
         public static Random RANDOM { get; private set; }
 
-        public static void Initialize(int seed = null)
+        public static void Initialize(int seed)
         {
-            if (seed = null) RANDOM = new Random();
-            else RANDOM = new Random(seed);
+            RANDOM = new Random(seed);
+        }
+
+        public static void Initialize()
+        {
+            RANDOM = new Random();
         }
     }
 }

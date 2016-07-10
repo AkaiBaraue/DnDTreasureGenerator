@@ -16,7 +16,7 @@ namespace DnDTreasureGenerator.Program
         /// <summary>
         /// Gets the number of sides on the dice.
         /// </summary>
-        private int Sides { get; private set; }
+        public int Sides { get { return this.sides; } private set { this.sides = value; } }
 
         public Dice(int sides)
         {
@@ -30,7 +30,7 @@ namespace DnDTreasureGenerator.Program
         /// <returns> A number between 1 and the number of side on the dice. </returns>
         public int Roll()
         {
-            return (RNG.RANDOM.Next(sides) + 1);
+            return (RNG.RANDOM.Next(this.sides) + 1);
         }
     }
 }

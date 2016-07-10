@@ -8,15 +8,15 @@ namespace DnDTreasureGenerator.JsonModels
 {
     public class Gems_Model
     {
-        public List<Gp10> GemsWorth10gp { get; set; }
-        public List<Gp50> GemsWorth50gp { get; set; }
-        public List<Gp100> GemsWorth100gp { get; set; }
-        public List<Gp500> GemsWorth500gp { get; set; }
-        public List<Gp1000> GemsWorth1000gp { get; set; }
-        public List<Gp5000> GemsWorth5000gp { get; set; }
+        public List<Gp10> Gp10 { get; set; }
+        public List<Gp50> Gp50 { get; set; }
+        public List<Gp100> Gp100 { get; set; }
+        public List<Gp500> Gp500 { get; set; }
+        public List<Gp1000> Gp1000 { get; set; }
+        public List<Gp5000> Gp5000 { get; set; }
     }
 
-    public class Gp10111
+    public class Gp10
     {
         public int Result { get; set; }
         public string Name { get; set; }

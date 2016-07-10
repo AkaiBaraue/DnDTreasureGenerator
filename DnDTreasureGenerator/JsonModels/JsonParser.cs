@@ -13,14 +13,14 @@ namespace DnDTreasureGenerator.Program
 {
     class JsonParser
     {
-        public Gems2_Model DeserializeFile()
+        public Gems_Model DeserializeGems()
         {
-            var items = new Gems2_Model();
+            var items = new Gems_Model();
 
-            using (StreamReader r = new StreamReader("Data/Gems2.json"))
+            using (StreamReader r = new StreamReader("Data/Gems.json"))
             {
                 string json = r.ReadToEnd();
-                items = JsonConvert.DeserializeObject<Gems2_Model>(json);
+                items = JsonConvert.DeserializeObject<Gems_Model>(json);
             }
 
             return items;
